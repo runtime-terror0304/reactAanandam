@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactAanandam/static/css/main.f0c672ca.css",
+    "main.js": "/reactAanandam/static/js/main.a7ec6122.js",
+    "index.html": "/reactAanandam/index.html",
+    "main.f0c672ca.css.map": "/reactAanandam/static/css/main.f0c672ca.css.map",
+    "main.a7ec6122.js.map": "/reactAanandam/static/js/main.a7ec6122.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0c672ca.css",
+    "static/js/main.a7ec6122.js"
+  ]
+}
