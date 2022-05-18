@@ -46,7 +46,7 @@ const Login = () => {
         else{
             localStorage.setItem('dat', JSON.stringify(data));
             alert('Login Success');
-            window.location.href = 'reactAanandam/#/';
+            window.location.href = 'reactAanandam/';
         }
     }
 
@@ -81,7 +81,7 @@ const Login = () => {
         else{
             localStorage.setItem('dat', JSON.stringify(data));
             alert('Login Success');
-            window.location.href = 'reactAanandam/#/';
+            window.location.href = 'reactAanandam/';
         }
     }
 

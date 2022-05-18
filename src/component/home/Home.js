@@ -17,12 +17,12 @@ const getLocalData = () => {
     }
     else{
         //console.log('jholA');
-        window.location.href = 'reactAanandam/#/login';
+        window.location.href = 'reactAanandam/login';
     }
 }
 
 const gotoPage = () => {
-    window.location.href = 'reactAanandam/#/services'
+    window.location.href = 'reactAanandam/services'
 }
 
 const Home = () => {
